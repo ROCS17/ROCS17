@@ -82,6 +82,6 @@ Estudiante de noveno ciclo de Ingeniería de Software con conocimientos en el ca
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerCS17&hide_border=true&layout=compact" align="left" style="width: 75%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerCS17&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>
 
 <br/>  
