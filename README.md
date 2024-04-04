@@ -1,10 +1,10 @@
 ## ***<div align="center">"El éxito es la suma de pequeños esfuerzos repetidos día tras día." </div>***  
   
 
-Estudiante de noveno ciclo de Ingeniería de Software con conocimientos en el campo de la Inteligencia Artificial, Ciencia de Datos y Desarrollo Back-End. Poseo conocimientos en el lenguaje de programación Python así como también en lenguajes como Java y PHP, en control de versiones con Git y también en el manejo de Bases de Datos SQL y sus diferentes gestores. Comprometido con el aprendizaje continuo y la actualización constante en las últimas tendencias tecnológicas.  
+Estudiante de noveno ciclo de Ingeniería de Software con conocimientos en el campo de Big Data, Ciencia de Datos e Inteligencia Artificial, con un enfoque principal en la Ingeniería de Datos. Poseo conocimientos en el lenguaje de programación Python , en control de versiones con Git y también en el manejo de Bases de Datos SQL y sus diferentes gestores. Además con conocimiento en Google Cloud Platform, Microsoft Azure, Apache Spark. Comprometido con el aprendizaje continuo y la actualización constante en las últimas tendencias tecnológicas.  
   
 
--  👨‍💼 Actualmente trabajando en IQFarma como Data Analyst Trainee.  
+-  👨‍💼 He empleado el puesto de Data Analyst Trainee.  
   
 
 -  ✨ Siempre dispuesto a seguir aprendiendo y seguir mejorando cada día.  
