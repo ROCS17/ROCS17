@@ -1,12 +1,12 @@
 ## ***<div align="center">"El éxito es la suma de pequeños esfuerzos repetidos día tras día." </div>***  
   
 
-Estudiante de 9no ciclo de la carrera de Ingeniería de Software con conocimientos en el campo de Big 
-Data, Data Science y Machine Learning con un enfoque principal en la Ingeniería de Datos.
+Estudiante de Ingeniería de Software con conocimientos en el área Desarrollo de Software y experiencia en el área de Ciencia de Datos. 
+En mi experiencia, he podido brindar soluciones de data analytics. Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, resolución de problemas y sobre todo mi compromiso y orientación a resultados.
 
   
 
--  👨‍💼 He empleado el puesto de Data Analyst Trainee.  
+-  👨‍💼 Actualmente soy Asistente Desarrollador.  
   
 
 -  ✨ Siempre dispuesto a seguir aprendiendo y seguir mejorando cada día.  
