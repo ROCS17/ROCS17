@@ -1,18 +1,18 @@
 ## ***<div align="center">"El éxito es la suma de pequeños esfuerzos repetidos día tras día." </div>***  
   
 
-Estudiante de Ingeniería de Software con conocimientos en el área Desarrollo de Software y experiencia en el área de Ciencia de Datos. 
-En mi experiencia, he podido brindar soluciones de data analytics. Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, resolución de problemas y sobre todo mi compromiso y orientación a resultados.
+Estudiante de Ingeniería de Software con experiencia en el área Desarrollo de Software y en el área de Ciencia de Datos. 
+En mi experiencia, he podido brindar soluciones de data analytics y de desarrollo. Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, resolución de problemas y sobre todo mi compromiso y orientación a resultados.
 
   
 
--  👨‍💼 Actualmente soy Asistente Desarrollador.  
+-  👨‍💼 He trabajado como Practicante Analista de Datos y Desarrollador Full Stack.  
   
 
 -  ✨ Siempre dispuesto a seguir aprendiendo y seguir mejorando cada día.  
   
 
-- ⚡ Hobbies: Escuchar música, jugar videojuegos.  
+- ⚡ Hobbies: Escuchar música, jugar videojuegos y realizar deporte.  
   
 
 <br/>  
