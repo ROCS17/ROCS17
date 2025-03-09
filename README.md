@@ -74,7 +74,7 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 
 ## 🎓 Educación
 
-- **Bachiller en Ingeniería de Software**  
+- **Egresado en Ingeniería de Software**  
   *Universidad Nacional Mayor de San Marcos, Lima*  
 
 ---
