@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogercs1704@gmail.com)
 
 
-Soy un **Egresado de Ingeniería de Software** que actualmente reside en Lima, Perú.
+Soy un **Egresado en Ingeniería de Software** que actualmente reside en Lima, Perú.
 
 He trabajado en proyectos de visualización, modelado predictivo y desarrollo de APIs. Actualmente busco desarrollarme como **Analista de Datos**, con proyección hacia roles de **Inteligencia de Artificial** como **Ingeniero en Inteligencia Artificial** empleando tecnologías actuales como **IA Generativa**.
 
