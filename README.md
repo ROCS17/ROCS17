@@ -7,7 +7,7 @@
 
 Soy **Desarrollador de Software** que actualmente reside en Lima, Perú.
 
-Tengo experiencia en el desarrollo de APIs, trabajo con bases de datos y mantenimiento de sistemas. Mi meta es seguir especializándome como **Desarrollador Backend**, aplicando buenas prácticas de desarrollo y aprendiendo continuamente sobre arquitecturas escalables y tecnologías modernas como la implementación de **Inteligencia Artificial** para automatizar procesos, utilizando herramientas como **n8n** y **servicios de IA**.
+Soy **Desarrollador de Software** con experiencia en el desarrollo de APIs, trabajo con bases de datos y mantenimiento de sistemas. Mi meta es seguir especializándome como **Desarrollador Backend**, aplicando buenas prácticas de desarrollo y aprendiendo continuamente sobre arquitecturas escalables y tecnologías modernas como la implementación de **Inteligencia Artificial** para automatizar procesos mediante **Agentes de IA**, utilizando herramientas como **n8n** y **LangChaing**.
 
 ---
 
