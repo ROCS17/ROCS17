@@ -7,7 +7,7 @@
 
 Soy **Desarrollador de Software** que actualmente reside en Lima, Perú.
 
-Tengo experiencia desarrollando APIs, automatizando procesos y trabajando con bases de datos. Mi meta es seguir especializándome como **Desarrollador Backend**, aplicando buenas prácticas de desarrollo, principios SOLID y diseño de arquitecturas escalables con tecnologías modernas.
+Tengo experiencia en el desarrollo de APIs, trabajo con bases de datos y mantenimiento de sistemas. Mi meta es seguir especializándome como **Desarrollador Backend**, aplicando buenas prácticas de desarrollo y aprendiendo continuamente sobre arquitecturas escalables y tecnologías modernas. Me interesa especialmente la implementación de **Inteligencia Artificial** para automatizar procesos, utilizando herramientas como **n8n** y **servicios de IA**.
 
 ---
 
@@ -27,13 +27,12 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 ### **Backend:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
 
 ### **Bases de Datos:**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
@@ -61,7 +60,8 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 ### **Practicante Analista de Datos**  
 **Instituto Quimioterápico S.A.**  
 *Enero 2024 – Abril 2024*
-- Reestructuración y soporte de la Aplicación Web Interna de Data Analytics.
+- Reestructuración y soporte de la Aplicación Web del área de Data Analytics: Gestión de Usuarios, Gestión de Dashboards, Panel de Administrador, etc.
+- Migración y Mantenimiento de Base de Datos en SQL Server.
 - Elaboración y automatización de Dashboards en Power BI.
 - Desarrollo e implementación de Modelo de Machine Learning para el Forecast de Ventas del Área Comercial.
 - Elaboración de Documentación Técnica.
