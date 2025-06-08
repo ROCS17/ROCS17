@@ -66,7 +66,7 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 - Migración y mantenimiento de Base de Datos en SQL Server.
 - Elaboración y automatización de Dashboards en Power BI.
 - Desarrollo e implementación de Modelo de IA para el Forecast de Ventas del Área Comercial.
-- Stack Tecnológico: Power BI, Excel, Python, HTML, CSS, PHP, MySQL, MS SQL Server.
+- **Stack Tecnológico: Power BI, Excel, Python, HTML, CSS, PHP, MySQL, MS SQL Server.**
 
 ---
 
