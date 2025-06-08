@@ -7,7 +7,7 @@
 
 Soy **Desarrollador de Software** que actualmente reside en Lima, Perú.
 
-Tengo experiencia en el desarrollo de APIs, trabajo con bases de datos y mantenimiento de sistemas. Mi meta es seguir especializándome como **Desarrollador Backend**, aplicando buenas prácticas de desarrollo y aprendiendo continuamente sobre arquitecturas escalables y tecnologías modernas como la implementación de **Inteligencia Artificial** para automatizar procesos mediante **Agentes de IA**, utilizando herramientas como **n8n** y **LangChaing**.
+Tengo experiencia en el desarrollo de APIs, trabajo con bases de datos y mantenimiento de sistemas. Mi meta es seguir especializándome como **Desarrollador Backend**, aplicando buenas prácticas de desarrollo y aprendiendo continuamente sobre arquitecturas escalables y tecnologías modernas como la implementación de **Inteligencia Artificial** para el desarrollo de **Aplicaciones de IA**.
 
 ---
 
@@ -25,9 +25,11 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### **Backend:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### **Bases de Datos:**
@@ -51,20 +53,20 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 ### **Asistente Desarrollador**  
 **SUMMIT S.A.C.**  
 *Octubre 2024 – Diciembre 2024*  
-- Desarrollo de APIs en .NET 6, asegurando su integración con QUIPU ERP.
+- Desarrollo de APIs en .NET 6 y creación de documentación detallada de APIs en Postman.
 - Revisión y limpieza de scripts para la generación de tablas en QUIPU ERP.
-- Creación de documentación detallada de APIs en Postman, cubriendo módulos como Configuración, Ventas, Compras, Inventario y Punto de Venta.
 - Migración de información de la BD de QUIPU ERP a una nueva instancia PostgreSQL.
-- Solución de incidentes de nivel 1 provenientes de QUIPU ERP y DIGIFACT.
+- Solución de incidentes provenientes de QUIPU ERP y DIGIFACT.
+- **Stack Tecnológico: Angular, .NET, PostgreSQL, Postman.**
 
 ### **Practicante Analista de Datos**  
 **Instituto Quimioterápico S.A.**  
 *Enero 2024 – Abril 2024*
-- Reestructuración y soporte de la Aplicación Web del área de Data Analytics: Gestión de Usuarios, Gestión de Dashboards, Panel de Administrador, etc.
-- Migración y Mantenimiento de Base de Datos en SQL Server.
+- Reestructuración y soporte de la Página Web Interna de Data Analytics.
+- Migración y mantenimiento de Base de Datos en SQL Server.
 - Elaboración y automatización de Dashboards en Power BI.
-- Desarrollo e implementación de Modelo de Machine Learning para el Forecast de Ventas del Área Comercial.
-- Elaboración de Documentación Técnica.
+- Desarrollo e implementación de Modelo de IA para el Forecast de Ventas del Área Comercial.
+- Stack Tecnológico: Power BI, Excel, Python, HTML, CSS, PHP, MySQL, MS SQL Server.
 
 ---
 
