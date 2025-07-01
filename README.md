@@ -7,7 +7,7 @@
 
 Soy **Desarrollador de Software** que actualmente reside en Lima, Perú.
 
-Tengo experiencia en el desarrollo de APIs, trabajo con bases de datos y mantenimiento de sistemas. Mi meta es seguir especializándome como **Desarrollador Backend**, aplicando buenas prácticas de desarrollo y aprendiendo continuamente sobre arquitecturas escalables y tecnologías modernas como la implementación de **Inteligencia Artificial** para el desarrollo de **Aplicaciones de IA**.
+Tengo experiencia en el desarrollo de APIs, trabajo con bases de datos y mantenimiento de sistemas. Mi meta es seguir especializándome como **Desarrollador Backend** con foco en **soluciones de automatización e IA aplicada**. Tengo interés en la construcción de flujos automatizados, uso de herramientas como **n8n, SSIS, Make, Zapier** y la implementación de **modelos de lenguaje (LLM)** para aplicaciones conversacionales y agentes inteligentes.
 
 ---
 
@@ -19,24 +19,24 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 
 ## 🔧 Habilidades Técnicas
 
-### **Frontend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 ### **Backend:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### **Automatización:**
+![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC.svg?style=for-the-badge&logo=Make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00.svg?style=for-the-badge&logo=Zapier&logoColor=white)
 
 ### **Bases de Datos:**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
 
 ### **Otros:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -60,7 +60,7 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 - **Stack Tecnológico: Angular, .NET, PostgreSQL, Postman.**
 
 ### **Practicante Analista de Datos**  
-**Instituto Quimioterápico S.A.**  
+**INSTITUTO QUIMIOTERÁPICO S.A.**  
 *Enero 2024 – Abril 2024*
 - Reestructuración y soporte de la Página Web Interna de Data Analytics.
 - Migración y mantenimiento de Base de Datos en SQL Server.
