@@ -4,10 +4,11 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/841773284394926081)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rogercs1704@gmail.com)
 
+Soy una persona curiosa y comprometida, con una pasión genuina por el desarrollo de software y la automatización. Me gusta enfrentar retos técnicos y encontrar soluciones simples y eficientes que generen impacto real.
 
-Soy **Desarrollador de Software** que actualmente reside en Lima, Perú.
+A lo largo de mi trayectoria he participado en proyectos que abarcan el desarrollo de APIs, la ingeniería de datos y la creación de flujos automatizados, fortaleciendo mis conocimientos en tecnologías backend, bases de datos y herramientas de integración. Mi experiencia incluye el uso de Python, JavaScript, .NET, SQL Server Integration Services (SSIS), PostgreSQL y n8n, entre otros.
 
-Tengo experiencia en el desarrollo de APIs, trabajo con bases de datos y mantenimiento de sistemas. Mi meta es seguir especializándome como **Desarrollador Backend** con foco en **soluciones de automatización e IA aplicada**. Tengo interés en la construcción de flujos automatizados, uso de herramientas como **n8n, SSIS, Make, Zapier** y la implementación de **modelos de lenguaje (LLM)** para aplicaciones conversacionales y agentes inteligentes.
+Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes como la IA y los modelos de lenguaje para desarrollar aplicaciones inteligentes y escalables. Hoy busco seguir creciendo en el mundo del backend, la ingeniería de datos y la automatización, aportando soluciones innovadoras en entornos colaborativos que fomenten la mejora
 
 ---
 
@@ -19,17 +20,23 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 
 ## 🔧 Habilidades Técnicas
 
-### **Backend:**
+### **Lenguajes de Programación:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Backend:**
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### **Automatización:**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC.svg?style=for-the-badge&logo=Make&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00.svg?style=for-the-badge&logo=Zapier&logoColor=white)
+
+### **Ingeniería de Datos:**
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)
 
 ### **Bases de Datos:**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -45,10 +52,17 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
 ---
 
 ## 💼 Experiencia Profesional
+
+### **Practicante Profesional de TI**  
+**Servicio de Administración Tributaria de Lima**  
+*Mayo 2025 – Julio 2025*
+- Desarrollo de Automatización con SSIS de la Plataforma de Interoperabilidad del Estado.
+- Mantenimiento de la Aplicación Web Virtual SAT.
+- Documentación de Aplicaciones del SAT.
+- **Stack Tecnológico: SSIS, SQL Server, C#, Visual Basic, HTML, CSS.**
 
 ### **Asistente Desarrollador**  
 **SUMMIT S.A.C.**  
