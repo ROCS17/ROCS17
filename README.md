@@ -4,11 +4,11 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/841773284394926081)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rogercs1704@gmail.com)
 
-Soy una persona curiosa y comprometida, con una pasión genuina por el desarrollo de software y la automatización. Me gusta enfrentar retos técnicos y encontrar soluciones simples y eficientes que generen impacto real.
+Soy una persona curiosa y comprometida, con una pasión genuina por el desarrollo de software y la automatización. Disfruto enfrentar retos técnicos y encontrar soluciones simples, eficientes y con impacto real.
 
-A lo largo de mi trayectoria he participado en proyectos que abarcan el desarrollo de APIs, la ingeniería de datos y la creación de flujos automatizados, fortaleciendo mis conocimientos en tecnologías backend, bases de datos y herramientas de integración. Mi experiencia incluye el uso de Python, JavaScript, .NET, SQL Server Integration Services (SSIS), PostgreSQL y n8n, entre otros.
+A lo largo de mi trayectoria he participado en proyectos que abarcan el desarrollo de APIs y la creación de flujos automatizados, fortaleciendo mis conocimientos en tecnologías backend, bases de datos y herramientas de integración. Mi experiencia incluye el uso de Python, JavaScript, .NET, SQL Server Integration Services (SSIS), PostgreSQL y n8n, entre otros.
 
-Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes como la IA y los modelos de lenguaje para desarrollar aplicaciones inteligentes y escalables. Hoy busco seguir creciendo en el mundo del backend, la ingeniería de datos y la automatización, aportando soluciones innovadoras en entornos colaborativos que fomenten la mejora constante.
+Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes como la Inteligencia Artificial y los modelos de lenguaje para desarrollar aplicaciones inteligentes y escalables. Actualmente busco seguir creciendo en el mundo del backend y la automatización, aportando soluciones innovadoras en entornos colaborativos que promuevan la mejora constante.
 
 ---
 
@@ -26,17 +26,14 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **Backend:**
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### **Automatización:**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
-
-### **Ingeniería de Datos:**
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)
 
 ### **Bases de Datos:**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
