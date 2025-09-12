@@ -6,7 +6,7 @@
 
 Soy una persona curiosa y comprometida, con una pasión genuina por el desarrollo de software y la automatización. Disfruto enfrentar retos técnicos y encontrar soluciones simples, eficientes y con impacto real.
 
-A lo largo de mi trayectoria he participado en proyectos que abarcan el desarrollo de APIs y la creación de flujos automatizados, fortaleciendo mis conocimientos en tecnologías backend, bases de datos y herramientas de integración. Mi experiencia incluye el uso de Python, JavaScript, .NET, SQL Server Integration Services (SSIS), PostgreSQL y n8n, entre otros.
+A lo largo de mi trayectoria he participado en proyectos que abarcan el desarrollo de APIs y la creación de flujos automatizados, fortaleciendo mis conocimientos en tecnologías backend, bases de datos y herramientas de integración. Mi experiencia incluye el uso de Python, TypeScript, .NET, SQL Server Integration Services (SSIS), PostgreSQL y n8n, entre otros.
 
 Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes como la Inteligencia Artificial y los modelos de lenguaje para desarrollar aplicaciones inteligentes y escalables. Actualmente busco seguir creciendo en el mundo del backend y la automatización, aportando soluciones innovadoras en entornos colaborativos que promuevan la mejora constante.
 
