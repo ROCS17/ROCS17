@@ -6,7 +6,7 @@
 
 Soy una persona curiosa y comprometida, con una pasión genuina por el desarrollo de software y la automatización. Disfruto enfrentar retos técnicos y encontrar soluciones simples, eficientes y con impacto real.
 
-A lo largo de mi trayectoria he participado en proyectos que abarcan el desarrollo de APIs y la creación de flujos automatizados, fortaleciendo mis conocimientos en tecnologías backend, bases de datos y herramientas de integración. Mi experiencia incluye el uso de Python, TypeScript, .NET, SQL Server Integration Services (SSIS), PostgreSQL y n8n, entre otros.
+A lo largo de mi trayectoria he participado en proyectos que abarcan el desarrollo de APIs y la creación de flujos automatizados, fortaleciendo mis conocimientos en tecnologías backend, bases de datos y herramientas de integración. Mi experiencia incluye el uso de Python, .NET, SQL Server Integration Services (SSIS), PostgreSQL y n8n, entre otros.
 
 Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes como la Inteligencia Artificial y los modelos de lenguaje para desarrollar aplicaciones inteligentes y escalables. Actualmente busco seguir creciendo en el mundo del backend y la automatización, aportando soluciones innovadoras en entornos colaborativos que promuevan la mejora constante.
 
@@ -21,24 +21,23 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 ## 🔧 Habilidades Técnicas
 
 ### **Lenguajes de Programación:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ### **Frontend:**
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 ### **Backend:**
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![.Net](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### **Automatización:**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### **Bases de Datos:**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
@@ -47,7 +46,6 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
