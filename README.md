@@ -4,11 +4,11 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/841773284394926081)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rogercs1704@gmail.com)
 
-Soy una persona curiosa y comprometida, con una pasión genuina por el desarrollo de software y la automatización. Disfruto enfrentar retos técnicos y encontrar soluciones simples, eficientes y con impacto real.
+Soy una persona curiosa y comprometida, con una pasión genuina por el desarrollo de software y la ingeniería de datos. Disfruto enfrentar retos técnicos y encontrar soluciones simples, eficientes y con impacto real.
 
 A lo largo de mi trayectoria he participado en proyectos que abarcan el desarrollo de APIs y la creación de flujos automatizados, fortaleciendo mis conocimientos en tecnologías backend, bases de datos y herramientas de integración. Mi experiencia incluye el uso de Python, .NET, SQL Server Integration Services (SSIS), PostgreSQL y n8n, entre otros.
 
-Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes como la Inteligencia Artificial y los modelos de lenguaje para desarrollar aplicaciones inteligentes y escalables. Actualmente busco seguir creciendo en el mundo del backend y la automatización, aportando soluciones innovadoras en entornos colaborativos que promuevan la mejora constante.
+Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes como la Inteligencia Artificial y los modelos de lenguaje para desarrollar aplicaciones inteligentes y escalables. Actualmente busco seguir creciendo en el mundo del backend y de los datos, aportando soluciones innovadoras en entornos colaborativos que promuevan la mejora constante.
 
 ---
 
@@ -26,10 +26,11 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 
 ### **Backend:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
-### **Automatización:**
+### **Data y Automatización:**
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### **Bases de Datos:**
@@ -57,7 +58,7 @@ Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, reso
 - Documentación de Aplicaciones del SAT.
 - **Stack Tecnológico: SSIS, SQL Server, C#, Visual Basic, HTML, CSS.**
 
-### **Asistente Desarrollador**  
+### **Practicante Desarrollador**  
 **SUMMIT S.A.C.**  
 *Octubre 2024 – Diciembre 2024*  
 - Desarrollo de APIs en .NET 6 y creación de documentación detallada de APIs en Postman.
