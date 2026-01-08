@@ -12,12 +12,6 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 
 ---
 
-## 🚀 Sobre mi
-
-Me destaco por mi capacidad analítica, enfoque en el aprendizaje continuo, resolución de problemas y sobre todo mi compromiso y orientación a resultados.
-
----
-
 ## 🔧 Habilidades Técnicas
 
 ### **Lenguajes de Programación:**
