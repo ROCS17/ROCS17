@@ -4,11 +4,11 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/841773284394926081)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rogercs1704@gmail.com)
 
-Soy una persona curiosa y comprometida, con una pasión genuina por el desarrollo de software y la ingeniería de datos. Disfruto enfrentar retos técnicos y encontrar soluciones simples, eficientes y con impacto real.
+Soy una persona curiosa y comprometida, con una pasión genuina por el desarrollo de software. Disfruto enfrentar retos técnicos y encontrar soluciones simples, eficientes y con impacto real.
 
-A lo largo de mi trayectoria he participado en proyectos que abarcan el desarrollo de APIs y la creación de flujos automatizados, fortaleciendo mis conocimientos en tecnologías backend, bases de datos y herramientas de integración. Mi experiencia incluye el uso de Python, .NET, SQL Server Integration Services (SSIS), PostgreSQL y n8n, entre otros.
+A lo largo de mi trayectoria he participado en proyectos que abarcan el desarrollo de APIs y la creación de flujos automatizados, fortaleciendo mis conocimientos en tecnologías backend, bases de datos y herramientas de integración. Mi experiencia incluye el uso de Python, .NET, TypeScript, SQL Server Integration Services (SSIS), PostgreSQL y n8n, entre otros.
 
-Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes como la Inteligencia Artificial y los modelos de lenguaje para desarrollar aplicaciones inteligentes y escalables. Actualmente busco seguir creciendo en el mundo del backend y de los datos, aportando soluciones innovadoras en entornos colaborativos que promuevan la mejora constante.
+Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes como la Inteligencia Artificial y los modelos de lenguaje para desarrollar aplicaciones inteligentes y escalables. Actualmente busco seguir creciendo en el mundo del backend, aportando soluciones innovadoras en entornos colaborativos que promuevan la mejora constante.
 
 ---
 
@@ -20,24 +20,24 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
 ### **Frontend:**
-![Angular](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### **Backend:**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-### **Data y Automatización:**
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### **Bases de Datos:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
+
+### **Cloud:**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Automatización:**
+![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### **Otros:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
