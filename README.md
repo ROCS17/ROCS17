@@ -54,16 +54,17 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 ### **Practicante Profesional de Datos**  
 **Clínica Internacional**  
 *Diciembre 2025 – Actualidad*
-- Automatización y documentación de procesos internos
-- Soporte a las diferentes áreas del Contact Center en la realización de reportes
-- **Stack Tecnológico: Excel, Looker, Python**
+- Migración de lógica legacy en macros de Excel a scripts de Python
+- Implementación de scripts automatizados en Python
+- Soporte a las diferentes áreas del Contact Center en la realización de reportes en Excel
+- **Stack Tecnológico: Excel, Python, Looker**
 
 ### **Practicante Profesional de TI**  
 **Servicio de Administración Tributaria de Lima**  
 *Mayo 2025 – Julio 2025*
-- Desarrollo de Automatización con SSIS de la Plataforma de Interoperabilidad del Estado
-- Mantenimiento de la Aplicación Web Virtual SAT
-- Documentación de Aplicaciones del SAT
+- Desarrollo de automatización utilizando SSIS para la interoperabilidad de datos del Estado
+- Mantenimiento y mejora de la aplicación web del SAT enfocada en la gestión de datos
+- Optimización y consultas en bases de datos SQL Server
 - **Stack Tecnológico: SSIS, SQL Server, C#, Visual Basic, HTML, CSS**
 
 ### **Practicante Desarrollador**  
@@ -78,7 +79,7 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 **INSTITUTO QUIMIOTERÁPICO S.A.**  
 *Enero 2024 – Abril 2024*
 - Migración y mantenimiento de bases de datos en SQL Server
-- Desarrollo y automatización de dashboards en Power BI para análisis de datos comerciales
+- Mantenimiento y mejora de Aplicación Web de dashboards en Power BI
 - Implementación de modelo de forecast de ventas con Python
 - **Stack Tecnológico: Power BI, Excel, Python, HTML, CSS, PHP, MySQL, MS SQL Server**
 
