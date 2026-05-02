@@ -15,6 +15,7 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 ## 🔧 Habilidades Técnicas
 
 ### **Lenguajes de Programación:**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -23,17 +24,18 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### **Backend:**
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### **Bases de Datos:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
 
 ### **Cloud:**
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### **Automatización:**
@@ -49,31 +51,36 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 
 ## 💼 Experiencia Profesional
 
+### **Practicante Profesional de Datos**  
+**Clínica Internacional**  
+*Diciembre 2025 – Actualidad*
+- Automatización y documentación de procesos internos
+- Soporte a las diferentes áreas del Contact Center en la realización de reportes
+- **Stack Tecnológico: Excel, Looker, Python**
+
 ### **Practicante Profesional de TI**  
 **Servicio de Administración Tributaria de Lima**  
 *Mayo 2025 – Julio 2025*
-- Desarrollo de Automatización con SSIS de la Plataforma de Interoperabilidad del Estado.
-- Mantenimiento de la Aplicación Web Virtual SAT.
-- Documentación de Aplicaciones del SAT.
-- **Stack Tecnológico: SSIS, SQL Server, C#, Visual Basic, HTML, CSS.**
+- Desarrollo de Automatización con SSIS de la Plataforma de Interoperabilidad del Estado
+- Mantenimiento de la Aplicación Web Virtual SAT
+- Documentación de Aplicaciones del SAT
+- **Stack Tecnológico: SSIS, SQL Server, C#, Visual Basic, HTML, CSS**
 
 ### **Practicante Desarrollador**  
 **SUMMIT S.A.C.**  
 *Octubre 2024 – Diciembre 2024*  
-- Desarrollo de APIs en .NET 6 y creación de documentación detallada de APIs en Postman.
-- Revisión y limpieza de scripts para la generación de tablas en QUIPU ERP.
-- Migración de información de la BD de QUIPU ERP a una nueva instancia PostgreSQL.
-- Solución de incidentes provenientes de QUIPU ERP y DIGIFACT.
-- **Stack Tecnológico: Angular, .NET, PostgreSQL, Postman.**
+- Desarrollo de APIs en .NET 6 orientadas a la exposición e integración de datos
+- Diseño y ejecución de procesos de migración de datos hacia PostgreSQL
+- Limpieza y optimización de scripts SQL en entorno ERP (QUIPU)
+- **Stack Tecnológico: Angular, .NET, PostgreSQL, Postman**
 
 ### **Practicante Analista de Datos**  
 **INSTITUTO QUIMIOTERÁPICO S.A.**  
 *Enero 2024 – Abril 2024*
-- Reestructuración y soporte de la Página Web Interna de Data Analytics.
-- Migración y mantenimiento de Base de Datos en SQL Server.
-- Elaboración y automatización de Dashboards en Power BI.
-- Desarrollo e implementación de Modelo de IA para el Forecast de Ventas del Área Comercial.
-- **Stack Tecnológico: Power BI, Excel, Python, HTML, CSS, PHP, MySQL, MS SQL Server.**
+- Migración y mantenimiento de bases de datos en SQL Server
+- Desarrollo y automatización de dashboards en Power BI para análisis de datos comerciales
+- Implementación de modelo de forecast de ventas con Python
+- **Stack Tecnológico: Power BI, Excel, Python, HTML, CSS, PHP, MySQL, MS SQL Server**
 
 ---
 
