@@ -19,30 +19,26 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
-### **Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ### **Backend:**
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### **Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### **Bases de Datos:**
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white)
 
-### **Cloud:**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### **Automatización:**
-![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
-
-### **Otros:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### **Herramientas y plataformas:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
@@ -54,7 +50,7 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 - Migración de lógica legacy en macros de Excel a scripts de Python
 - Implementación de scripts automatizados en Python
 - Soporte a las diferentes áreas del Contact Center en la realización de reportes en Excel
-- **Stack Tecnológico: Excel, Python, Looker**
+- **Stack Tecnológico:** Excel, Python, Looker
 
 ### **Practicante Profesional de TI**  
 **Servicio de Administración Tributaria de Lima**  
@@ -62,7 +58,7 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 - Desarrollo de automatización utilizando SSIS para la interoperabilidad de datos del Estado
 - Mantenimiento y mejora de la aplicación web del SAT enfocada en la gestión de datos
 - Optimización y consultas en bases de datos SQL Server
-- **Stack Tecnológico: SSIS, SQL Server, C#, Visual Basic, HTML, CSS**
+- **Stack Tecnológico:** SSIS, SQL Server, C#, Visual Basic, HTML, CSS
 
 ### **Practicante Desarrollador**  
 **SUMMIT S.A.C.**  
@@ -70,7 +66,7 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 - Desarrollo de APIs en .NET 6 orientadas a la exposición e integración de datos
 - Diseño y ejecución de procesos de migración de datos hacia PostgreSQL
 - Limpieza y optimización de scripts SQL en entorno ERP (QUIPU)
-- **Stack Tecnológico: Angular, .NET, PostgreSQL, Postman**
+- **Stack Tecnológico:** Angular, .NET, PostgreSQL, Postman
 
 ### **Practicante Analista de Datos**  
 **INSTITUTO QUIMIOTERÁPICO S.A.**  
@@ -78,7 +74,7 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 - Migración y mantenimiento de bases de datos en SQL Server
 - Mantenimiento y mejora de Aplicación Web de dashboards en Power BI
 - Implementación de modelo de forecast de ventas con Python
-- **Stack Tecnológico: Power BI, Excel, Python, HTML, CSS, PHP, MySQL, MS SQL Server**
+- **Stack Tecnológico:** Power BI, Excel, Python, HTML, CSS, PHP, MySQL, MS SQL Server
 
 ---
 
