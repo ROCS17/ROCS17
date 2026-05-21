@@ -28,8 +28,8 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### **Bases de Datos:**
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Herramientas y plataformas:**
@@ -50,7 +50,7 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 - Migración de lógica legacy en macros de Excel a scripts de Python
 - Implementación de scripts automatizados en Python
 - Soporte a las diferentes áreas del Contact Center en la realización de reportes en Excel
-- **Stack Tecnológico:** Excel, Python, Looker
+- **Stack Tecnológico:** Python, Excel, Looker
 
 ### **Practicante Profesional de TI**  
 **Servicio de Administración Tributaria de Lima**  
@@ -58,23 +58,23 @@ Me motiva el aprendizaje continuo y la aplicación de tecnologías emergentes co
 - Desarrollo de automatización utilizando SSIS para la interoperabilidad de datos del Estado
 - Mantenimiento y mejora de la aplicación web del SAT enfocada en la gestión de datos
 - Optimización y consultas en bases de datos SQL Server
-- **Stack Tecnológico:** SSIS, SQL Server, C#, Visual Basic, HTML, CSS
+- **Stack Tecnológico:** C#, SQL Server, SSIS, Visual Basic, HTML, CSS, JavaScript
 
 ### **Practicante Desarrollador**  
-**SUMMIT S.A.C.**  
+**Summit Consulting**  
 *Octubre 2024 – Diciembre 2024*  
 - Desarrollo de APIs en .NET 6 orientadas a la exposición e integración de datos
 - Diseño y ejecución de procesos de migración de datos hacia PostgreSQL
 - Limpieza y optimización de scripts SQL en entorno ERP (QUIPU)
-- **Stack Tecnológico:** Angular, .NET, PostgreSQL, Postman
+- **Stack Tecnológico:** .NET, PostgreSQL, Angular, Postman
 
 ### **Practicante Analista de Datos**  
-**INSTITUTO QUIMIOTERÁPICO S.A.**  
+**IQ Farma**  
 *Enero 2024 – Abril 2024*
-- Migración y mantenimiento de bases de datos en SQL Server
-- Mantenimiento y mejora de Aplicación Web de dashboards en Power BI
 - Implementación de modelo de forecast de ventas con Python
-- **Stack Tecnológico:** Power BI, Excel, Python, HTML, CSS, PHP, MySQL, MS SQL Server
+- Mantenimiento y mejora de Aplicación Web de dashboards en Power BI
+- Migración y mantenimiento de bases de datos en SQL Server
+- **Stack Tecnológico:** Python, Power BI, MS SQL Server, MySQL, PHP, HTML, CSS, JavaScript
 
 ---
 
