@@ -4,11 +4,11 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/841773284394926081)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rogercs1704@gmail.com)
 
-Ingeniero de Software con experiencia en ingeniería de datos, desarrollo backend y automatización de procesos. A lo largo de mi trayectoria he participado en proyectos de desarrollo de APIs, migración e integración de datos, construcción de procesos ETL y optimización de bases de datos, utilizando tecnologías como Python, SQL Server, PostgreSQL, .NET y SSIS.
+Ingeniero de Software con experiencia en desarrollo backend, ingeniería de datos y automatización de procesos. He participado en el desarrollo de APIs, integración y migración de datos, construcción de procesos ETL y optimización de bases de datos utilizando tecnologías como Python, .NET, SQL Server, PostgreSQL y SSIS.
 
-Me interesa seguir creciendo como Data Engineer, profundizando en arquitecturas de datos, plataformas cloud y tecnologías de procesamiento distribuido. Considero que mi experiencia en desarrollo backend aporta una visión integral para construir soluciones de datos robustas, mantenibles y orientadas al negocio.
+Me interesa desarrollar soluciones escalables, eficientes y mantenibles, aplicando buenas prácticas de desarrollo y aprovechando los datos para generar valor. Disfruto trabajar tanto en la construcción de servicios backend como en el diseño de procesos de integración y automatización.
 
-Siempre busco aprender nuevas tecnologías, asumir retos técnicos y colaborar en equipos donde la innovación y la mejora continua sean parte del día a día.
+Busco seguir creciendo profesionalmente, aprendiendo nuevas tecnologías y participando en proyectos desafiantes donde pueda aportar al desarrollo de software, la ingeniería de datos y la mejora continua.
 
 ---
 
