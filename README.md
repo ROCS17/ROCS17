@@ -4,11 +4,9 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/841773284394926081)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:rogercs1704@gmail.com)
 
-Ingeniero de Software con experiencia en desarrollo backend, ingeniería de datos y automatización de procesos. He participado en el desarrollo de APIs, integración y migración de datos, construcción de procesos ETL y optimización de bases de datos utilizando tecnologías como Python, .NET, SQL Server, PostgreSQL y SSIS.
+Ingeniero de Software apasionado por la Inteligencia Artificial Aplicada, la automatización y el desarrollo Backend. Cuento con experiencia en el desarrollo de APIs, integración y migración de datos, construcción de procesos ETL y optimización de bases de datos utilizando tecnologías como Python, .NET, SQL Server, PostgreSQL y SSIS.
 
-Me interesa desarrollar soluciones escalables, eficientes y mantenibles, aplicando buenas prácticas de desarrollo y aprovechando los datos para generar valor. Disfruto trabajar tanto en la construcción de servicios backend como en el diseño de procesos de integración y automatización.
-
-Busco seguir creciendo profesionalmente, aprendiendo nuevas tecnologías y participando en proyectos desafiantes donde pueda aportar al desarrollo de software, la ingeniería de datos y la mejora continua.
+Mi enfoque combina la ingeniería de software tradicional con las capacidades de la IA Generativa (LLMs) para automatizar flujos y optimizar procesos de negocio.
 
 ---
 
@@ -16,14 +14,16 @@ Busco seguir creciendo profesionalmente, aprendiendo nuevas tecnologías y parti
 
 ### **Lenguajes de Programación:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### **Frameworks:**
 ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### **Bases de Datos:**
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### **Herramientas y plataformas:**
